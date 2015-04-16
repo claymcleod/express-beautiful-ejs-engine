@@ -1,7 +1,7 @@
 Express Beautiful EJS Engine
 =============================
 
-A replacement engine for EJS that beautifies the HTML output.
+For those of us who like clean HTML output from express.
 
 Installation
 -------------
