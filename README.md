@@ -14,6 +14,9 @@ Usage
 -------------
 
 ``` 
+// Overwrite default EJS engine with this one
 app.engine('ejs', require('express-beautiful-ejs-engine'));
+
+// Set default engine to our engine
 app.set('view engine', 'ejs');
 ```
