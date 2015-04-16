@@ -1,0 +1,25 @@
+{
+  "name": "express-beautiful-ejs-engine",
+  "version": "0.0.1",
+  "description": "A replacement engine for EJS that beautifies the HTML output",
+  "main": "express-beautiful-ejs-engine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/claymcleod/express-beautiful-ejs-engine/"
+  },
+  "keywords": [
+    "EJS",
+    "beautiful",
+    "beautify",
+    "express",
+    "engine"
+  ],
+  "author": "Clay McLeod",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.3.1"
+  }
+}
