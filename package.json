@@ -1,6 +1,6 @@
 {
   "name": "express-beautiful-ejs-engine",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A replacement engine for EJS that beautifies the HTML output",
   "main": "express-beautiful-ejs-engine.js",
   "scripts": {
@@ -20,6 +20,7 @@
   "author": "Clay McLeod",
   "license": "MIT",
   "dependencies": {
-    "ejs": "^2.3.1"
+    "ejs": "^2.3.1",
+    "js-beautify": "^1.5.5"
   }
 }
