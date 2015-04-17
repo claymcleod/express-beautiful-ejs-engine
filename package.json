@@ -1,6 +1,6 @@
 {
   "name": "express-beautiful-ejs-engine",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A replacement engine for EJS that beautifies the HTML output",
   "main": "express-beautiful-ejs-engine.js",
   "scripts": {
